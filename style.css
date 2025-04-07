@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&family=Londrina+Shadow&family=Meddon&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8d7e3;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffb6c1;
+    border-radius: 10px;
+}
+
+header h1 {
+    font-family: "Londrina Shadow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4em;
+    color: #b4496dde;
+}
+
+.page{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f1c6d9;
+    border-radius: 8px;
+}
+
+.page h2 {
+    font-size: 2em;
+    color: #e91e63;
+}
+
+.orchid-info {
+    margin-top: 20px;
+    font-size: 1.1em;
+}
+
+.orchid-info h3 {
+    color: #ff4f7d;
+}
+
+.orchid-info ul {
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.orchid-info li {
+    margin: 10px 0;
+}
+
+image {
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #ffb6c1;
+    border-radius: 8px;
+}
+
+footer p {
+    color: #dd7ba9;
+    font-size: 1.2em;
+}
